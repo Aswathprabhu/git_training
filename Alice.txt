@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi! I'm Alice.
-=======
 Hi! I'm Alice in the change_alice.
->>>>>>> Updates alice in change_alice
